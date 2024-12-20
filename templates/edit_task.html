@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Edit Task</title>
+        {% load static %}
+        <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    </head>
+    <body>
+        <h1>Edit Task</h1>
+        <form method="post">
+            {% csrf_token %}
+            <label for="title">Edit your title:</label>
+            <input type="text" name="title" id="title" placeholder="{{ task.title }}" />
+            <label for="description">Edit your description:</label>
+            <textarea name="description" id="description">{{ task.description }}</textarea>
+            <label for="completed">Completed?:</label>
+            <input type="checkbox" name="completed" id="completed" {% if task.completed %} checked {% endif %} />
+            <button type="submit">Edit Task</button>
+        </form>
+        <a href="/">Back to Home</a>
+    </body>
+</html>
