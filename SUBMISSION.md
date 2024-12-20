@@ -4,8 +4,6 @@
 
 ## **Team Members**
 
----
-
 -   I did this solo
 
 ## **Functionality**
@@ -17,7 +15,9 @@ There are three main HTML pages:
 -   home.html
 
 add_task has a form with 2 fields (for title and description) and a submit button
-add_task has a form with 3 fields (for the 2 from add_task and a checkbox for completed) and a submit button
+
+edit_task has a form with 3 fields (for the 2 from add_task and a checkbox for completed) and a submit button
+
 home displays all the tasks and give the user an option to edit or delete every Task
 
 ## **Database Design**
