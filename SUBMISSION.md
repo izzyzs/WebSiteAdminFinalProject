@@ -1,7 +1,5 @@
 # **Term Project for Web Site Administration**
 
-===
-
 ### _By Ismael Soumahoro_
 
 ## **Team Members**
