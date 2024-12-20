@@ -1,6 +1,6 @@
 # **Term Project for Web Site Administration**
 
-==============================================
+===
 
 ### _By Ismael Soumahoro_
 
