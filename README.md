@@ -11,11 +11,7 @@
 
 ## _Term Project for Web Site Administration_
 
-### _By Ismael Soumahoro_
-
-## **Team Members**
-
--   I did this solo
+### _By Ismael Soumahoro_(Solo)
 
 ## **Functionality**
 
