@@ -11,7 +11,7 @@
 
 ## _**Term Project for Web Site Administration** By Ismael Soumahoro (Solo)_
 
-## **Functionality**
+# **Functionality**
 
 There are three main HTML pages:
 
@@ -25,7 +25,7 @@ _edit_task_ has a form with 3 fields (for the 2 from add_task and a checkbox for
 
 _home_ displays all the tasks and give the user an option to edit or delete every Task
 
-## **Database Design**
+# **Database Design**
 
 -   There is one simple table: a **Task** table
 -   The **Task** has multiple fields and they are
