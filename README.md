@@ -9,9 +9,7 @@
 
 ## _(From final submission)_
 
-## _Term Project for Web Site Administration_
-
-### _By Ismael Soumahoro (Solo)_
+## _Term Project for Web Site Administration **By Ismael Soumahoro (Solo)**_
 
 ## **Functionality**
 
