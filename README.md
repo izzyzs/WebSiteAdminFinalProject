@@ -19,11 +19,11 @@ There are three main HTML pages:
 -   edit_task.html
 -   home.html
 
-_add_task_ has a form with 2 fields (for title and description) and a submit button
+**_add_task_** has a form with 2 fields (for title and description) and a submit button
 
-_edit_task_ has a form with 3 fields (for the 2 from add_task and a checkbox for completed) and a submit button
+**_edit_task_** has a form with 3 fields (for the 2 from add_task and a checkbox for completed) and a submit button
 
-_home_ displays all the tasks and give the user an option to edit or delete every Task
+**_home_** displays all the tasks and give the user an option to edit or delete every Task
 
 ### **Database Design**
 
