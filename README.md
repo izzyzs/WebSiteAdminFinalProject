@@ -11,7 +11,7 @@
 
 ## _Term Project for Web Site Administration_
 
-### _By Ismael Soumahoro_\(Solo\)
+### _By Ismael Soumahoro (Solo)_
 
 ## **Functionality**
 
